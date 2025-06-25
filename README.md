@@ -7,12 +7,7 @@ test
 
 # 💻 Tech Stack:
 
-![MongoDB](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
-![CSS3](https://img.shields.io/npm/v/npm.svg?logo=CSS3)
-![MongoDB](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
-![MongoDB](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
-![MongoDB](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
-![MongoDB](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 
 
