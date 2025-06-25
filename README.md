@@ -21,15 +21,22 @@ test
 
 ## 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=asadullahhhhh&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width='100%'>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=asadullahhhhh&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
 
 
 ---
