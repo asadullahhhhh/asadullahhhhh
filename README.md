@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align='center'>
-  <img weidth='500px' src="https://raw.githubusercontent.com/asadullahhhhh/asadullahhhhh/refs/heads/main/Banner.jpg">
+  <img width='500px' src="https://raw.githubusercontent.com/asadullahhhhh/asadullahhhhh/refs/heads/main/Banner.jpg">
 </div>
 
 
