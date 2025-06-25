@@ -19,10 +19,24 @@ test
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asadullahhhhh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=asadullahhhhh&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=asadullahhhhh&icon=0&color=12)](https://visitcount.itsvg.in)
