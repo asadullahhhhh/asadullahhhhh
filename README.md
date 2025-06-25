@@ -1,5 +1,7 @@
 # 💫 About Me:
-<img height='400px' weidth='700px' src="https://raw.githubusercontent.com/asadullahhhhh/asadullahhhhh/refs/heads/main/Banner.jpg">
+<div align='center'>
+  <img weidth='700px' src="https://raw.githubusercontent.com/asadullahhhhh/asadullahhhhh/refs/heads/main/Banner.jpg">
+</div>
 
 
 ## 🌐 Socials:
