@@ -22,15 +22,15 @@ test
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://nirzak-streak-stats.vercel.app/?user=asadullahhhhh&theme=dark&hide_border=false" />
+  <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=asadullahhhhh&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
 
