@@ -22,7 +22,7 @@ test
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" height='300px' src="https://github-readme-stats.vercel.app/api?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img width="60%" height='200px' src="https://github-readme-stats.vercel.app/api?username=asadullahhhhh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </p>
 
 <p align="center">
