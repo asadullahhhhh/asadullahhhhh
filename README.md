@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [myResume](myResume)
 
-- ⚡ Fun fact **I console.log my emotions before expressing them in real life.**
+- ⚡ Fun fact **I debug my dreams with console.log()**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
