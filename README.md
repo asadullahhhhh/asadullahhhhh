@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadullahhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="asadullahhhhh" /> </p>
 
 # 💫 About Me:
-Passionate MERN stack developer crafting modern, responsive, and high-performance web applications.
-Focused on clean code, scalable architecture, and turning ideas into impactful digital solutions.<br><br>
+<p>Passionate MERN stack developer crafting modern, responsive, and high-performance web applications.
+Focused on clean code, scalable architecture, and turning ideas into impactful digital solutions.</p><br>
 
 - 🌱 I’m currently learning **NEXT.js, Typescript, PostgreSQL**
 
