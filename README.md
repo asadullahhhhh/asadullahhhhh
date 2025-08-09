@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadullahhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="asadullahhhhh" /> </p>
 
 # 💫 About Me:
-I’m a passionate web developer focused on building modern, responsive, and user-friendly applications.<br>Skilled in MERN stack, React, and Tailwind CSS, with a strong interest in clean code and scalable architecture.<br>Always eager to learn new technologies and turn ideas into impactful digital solutions.<br><br>
+Passionate MERN stack developer crafting modern, responsive, and high-performance web applications.
+Focused on clean code, scalable architecture, and turning ideas into impactful digital solutions.<br><br>
 
 
 ## 🌐 Socials:
