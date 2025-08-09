@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 <p>Passionate MERN stack developer crafting modern, responsive, and high-performance web applications.
-Focused on clean code, scalable architecture, and turning ideas into impactful digital solutions.</p><br>
+Focused on clean code, scalable architecture, and turning ideas into impactful digital solutions.</p>
 
 - 🌱 I’m currently learning **NEXT.js, Typescript, PostgreSQL**
 
