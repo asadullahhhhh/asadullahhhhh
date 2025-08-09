@@ -1,13 +1,25 @@
 ![MasterHead](https://camo.githubusercontent.com/b0d12c640e969f1cff1c70bb51c8e1eedfee5f546b1b061c9d1a9a91e70d15c3/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
 <h1 align="center">Hi 👋, I'm Asadullah Al Galib</h1>
 <h3 align="center">JavaScript Enthusiast | MERN Stack Developer | Crafting Modern Web Experiences</h3>
-<img align="right" alt="Coding" width="400" style="z-index : 10" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadullahhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="asadullahhhhh" /> </p>
 
 # 💫 About Me:
 Passionate MERN stack developer crafting modern, responsive, and high-performance web applications.
 Focused on clean code, scalable architecture, and turning ideas into impactful digital solutions.<br><br>
+
+- 🌱 I’m currently learning **NEXT.js, Typescript, PostgreSQL**
+
+- 👨‍💻 All of my projects are available at [myPortfolio](myPortfolio)
+
+- 💬 Ask me about **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
+
+- 📫 How to reach me **assadulla0172@gmail.com**
+
+- 📄 Know about my experiences [myResume](myResume)
+
+- ⚡ Fun fact **I console.log my emotions before expressing them in real life.**
 
 
 ## 🌐 Socials:
