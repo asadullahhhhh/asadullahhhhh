@@ -10,7 +10,7 @@ Focused on clean code, scalable architecture, and turning ideas into impactful d
 
 - 🌱 I’m currently learning **NEXT.js, Typescript, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [myPortfolio]([myPortfolio](https://portfolio-93943.web.app))
+- 👨‍💻 All of my projects are available at [myPortfolio](https://portfolio-93943.web.app/)
 
 - 💬 Ask me about **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 
